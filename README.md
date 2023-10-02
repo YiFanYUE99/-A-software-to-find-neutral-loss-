@@ -1,19 +1,34 @@
 # -A-software-to-find-neutral-loss-
 Neutral loss software
+Neutral loss is a phenomenon in Mass spectromrtry, which means fragments lost as neutral molecules.
 
-点击dist中的exe软件，等一小会至画面出现
-按提示输入各项内容
-最后一行是输出框，完成后显示DONE和完成时间
-在我的32g内存，i7-11800h,60wRTX3060笔电上运行约不到15s
-八代i5 8g内存的电脑上不到半分钟
 
-注意要是csv格式输入
 
-以下是示例的输入内容（按顺序）
+
+Click on the exe software in dist, and the screen will appear after a while.
+
+Enter various contents as prompted
+
+The last line is the output box, which displays DONE and completion time after completion.
+
+In my 32g memory, i7-11800h, 60wRTX3060 laptop runs in less than 15 seconds
+
+It takes less than half a minute to run on an eighth-generation i5 8g memory computer.
+
+Note that if the input is in csv format
+
+Here are the inputs for the example (in order)
+
 162.05282
+
 0.0002
+
 0.1
-data\ISCID.csv （ISCID存在哪里输哪里）
-data\PeakTable.csv （PeakTable存在哪里输哪里）
-iscidselected.csv （想要ISCID的筛选文件存哪里、名字叫什么）
-PeakTableselected.csv （想要PeakTable的筛选文件存哪里、名字叫什么）
+
+data\ISCID.csv (where ISCID exists, lose it)
+
+data\PeakTable.csv (Where the PeakTable exists, lose it)
+
+iscidselected.csv (Where to store the ISCID filter file and what is its name)
+
+PeakTableselected.csv (where do you want the PeakTable filter file to be stored and what is its name)
